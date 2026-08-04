@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #4A7FA7;
+
+}
+
+#nav {
+    width: 100%;
+    height: 5em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #0A1931;
+    display: flex;
+    /*position: fixed;*/
+}
+
+
+
+#left-nav {
+    width: 15em;
+    height: 3em;
+    margin-right: 50%;
+    background-color: transparent;
+    display: flex;
+    align-content: center;
+    margin-left: 0em;
+}
+
+.right-nav {
+    width: 600em;
+    height: 3em;
+    background-color: transparent;
+    margin-top: 0;
+    justify-content: center;
+    display: inline-block;
+    display: flex;
+
+
+}
+
+.u-logo {
+    height: 2em;
+    width: 2em;
+    display: flex;
+
+}
+
+#logo {
+    margin-left: 0em;
+    height: 3em;
+    width: 4em;
+
+    display: inline-block;
+    background-color: #0A1931;
+    display: flex;
+
+}
+
+.web-name {
+    height: 100%;
+    width: 10em;
+    display: flex;
+    align-content: center;
+    background-color: transparent;
+    margin: 0em;
+    margin-left: 1em;
+    padding: 0;
+    font-size: 1.5em;
+
+
+}
+
+#WN {
+    text-decoration: none;
+    color: white;
+    background-color: transparent;
+    font-weight: bold;
+    font-size: 1.5em;
+    margin: 5px;
+}
+.sign-up-container {
+    width: 40em;
+    height: 50em;
+    background-color: rgb(208, 200, 200);
+    border: 2px solid black;
+    margin: 15em 10em 5em 45em;
+    border-radius: 20px;
+
+}
+.sign-up-container h2{
+    text-align: center;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    font-size: 3.5em;
+    font-weight: bold;
+    background-color: transparent;
+}
+form{
+    background-color: transparent;
+}
+.l-name{
+    margin-left: 2em;
+    font-size: 1.5em;
+    font-weight: bolder;
+    text-align: center;
+    display: block;
+    background-color: transparent;
+    
+}
+.input-box{
+    width: 80%;
+    height: 2.5em;
+    margin-left: 10%;
+    margin-bottom: 2em;
+    border-radius: 5px;
+    border: 1.5px solid black;
+    background-color: lightgray;
+    font-size: 0.8em;
+}
+button{
+    width:5em;
+    height: 2em;
+    border: 2.5px solid rgb(248, 221, 68);
+    border-radius: 35px;
+    margin-left:8em;
+    background-color: #0d0236;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+button:hover{
+    border: 1px solid rgb(12, 23, 248);
+    background-color: #03ac0f;
+    
+}
