@@ -1,9 +1,4 @@
-# Expense Tracker App 💰
 
-[![Java](https://img.shields.io/badge/Language-Java-orange)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Framework-Spring%20Boot-brightgreen)](https://spring.io/projects/spring-boot)
-[![MySQL](https://img.shields.io/badge/Database-MySQL-blue)](https://www.mysql.com/)
-[![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-yellow)](#)
 
 A **full-stack Expense Tracker application** built with **Spring Boot**, **MySQL**, and **JavaScript**.  
 Users can register, log in, add transactions, and view dynamic reports for expenses, income, and balances.
@@ -36,7 +31,7 @@ Users can register, log in, add transactions, and view dynamic reports for expen
 - **Frontend:** HTML, CSS, JavaScript  
 - **Database:** MySQL (Workbench used for development)  
 - **Build Tool:** Maven  
-- **IDE:** IntelliJ IDEA (Backend), VS Code (Frontend)  
+- **IDE:** Eclipse (Backend), VS Code (Frontend)  
 
 ---
 
@@ -44,9 +39,9 @@ Users can register, log in, add transactions, and view dynamic reports for expen
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Jerrwin/Expense-Tracker.git
+https://github.com/umasankar51/Expense_Tracker.git
 ```
-2. Import the backend Spring Boot project in IntelliJ IDEA.
+2. Import the backend Spring Boot project in Eclipse.
 3. Set up MySQL database using MySQL Workbench:
 ```bash
 CREATE DATABASE expense_tracker;
